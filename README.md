@@ -73,7 +73,7 @@ Le script génère :
 
 ## 🚀 Utilisation
 ```bash
-python delta_hedging_frequency.py
+python delta_hedging.py
 ```
 
 ## 📦 Dépendances
